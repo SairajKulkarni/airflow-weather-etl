@@ -19,8 +19,7 @@ A robust ETL (Extract, Transform, Load) pipeline that automatically fetches weat
 - [Customization](#customization)
 - [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
-- [License](#license)
-
+  
 ## Overview
 
 This project demonstrates a practical implementation of a data pipeline using Apache Airflow. The pipeline:
